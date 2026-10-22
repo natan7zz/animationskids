@@ -29,28 +29,10 @@ A ideia foi reunir diversão e aprendizado de programação em um só lugar, com
 - 🎨 Visual colorido, pensado para crianças
 - 📱 Navegação simples entre as páginas
 
-## 🎮 Jogos do projeto
-
-<!-- CONFIRA: lista feita a partir dos nomes dos arquivos do repositório. Ajuste os nomes e apague o que não for jogo. -->
-
-| Jogo | Arquivo |
-|---|---|
-| Jogo da velha | `velha.html` |
-| Tetris | `tetris.html` |
-| Jogo da memória | `memory.html` |
-| Ping Pong | `pingopong.html` |
-| Cobrinha | `cobra.html` |
-| Coletor | `coletor.html` |
-| Bola | `bola.html` |
-| Ninja | `ninja.html` |
-| Peeza | `peeza.html` |
-
 ## 🖼️ Screenshots
 
 <div align="center">
-  <!-- Arraste o print do site aqui na edição do README no GitHub e cole o link gerado -->
-  <img alt="Página inicial" src="COLE_AQUI_O_LINK_DO_PRINT_DA_HOME" width="48%" />
-  <img alt="Página de jogos" src="COLE_AQUI_O_LINK_DO_PRINT_DOS_JOGOS" width="48%" />
+  <img width="1902" height="906" alt="animations" src="https://github.com/user-attachments/assets/bbc00ae4-333b-466d-9963-e26a843ad07d" />
 </div>
 
 ## 🚀 Como usar
